@@ -22,7 +22,7 @@
   <img width='30%' src='https://i.ytimg.com/vi/iPc0ENiAFpw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxR-25CtWF20bY5ubB-_EwxPnObQ' alt='Turip IP IP' />
 </a>
 
-### 📸 Mis últimas fotos en [mi Twitter](https://twitter.com/ryaxfn)
+### 📸 Mis últimos Tweets en [mi Twitter](https://twitter.com/ryaxfn)
 
 <a href='https://twitter.com/ryaxfn/status/1550640740769865728?s=20&t=8mEiYu8k0B45eqf-CbOIhA' target='_blank'>
   <img width='20%' src='https://pbs.twimg.com/card_img/1550640736630185984/1znyWKnH?format=jpg&name=900x900' alt='Instagram photo' />
