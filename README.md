@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy ryaxdev 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 1 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Junior</strong> con 1 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://www.twitch.tv/ryaxdev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
